@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🎧 Now Playing
+[![Spotify](https://github-readme-spotify.vercel.app/api/view?uid=22wep3qmpn2tavxivcbx4rmxy)](https://open.spotify.com/user/22wep3qmpn2tavxivcbx4rmxy)
+
 
 <!--
 **Luna-Salamanca/Luna-Salamanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
