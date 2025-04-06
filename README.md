@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="258" src="https://i.pinimg.com/originals/10/93/89/109389157312ae5ae6b03a48a4e6706b.gif"  />
+  <img height="258" src="https://github.com/Luna-Salamanca/Luna-Salamanca/blob/main/assets/gifs/anime-girl.gif"  />
 </div>
 
 ###
