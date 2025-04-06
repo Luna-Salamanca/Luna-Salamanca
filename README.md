@@ -23,7 +23,13 @@
 
 ###
 
-<p align="left">- Currently unemployed, but I'm actively investing my time in learning full-stack development<br>- I'm delving into both front-end and back-end technologies to build a well-rounded skill set<br>-  I develop silly Python projects that keep my creativity and problem-solving skills sharp</p>
+<p align="left">
+  - Currently unemployed, but I'm actively investing my time in learning full-stack development
+  <br>
+  - I'm delving into both front-end and back-end technologies to build a well-rounded skill set
+  <br>
+  - I develop silly Python projects that keep my creativity and problem-solving skills sharp
+</p>
 
 ###
 
@@ -51,10 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luna-Salamanca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Luna-Salamanca&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<p align="left">**GIF Credit:** [yuki77mi](https://www.tumblr.com/yuki77mi)</p>
 
 ###
 
