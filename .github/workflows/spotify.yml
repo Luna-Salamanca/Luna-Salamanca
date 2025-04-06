@@ -1,0 +1,25 @@
+name: Spotify Now Playing
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes; adjust as needed.
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Spotify Now Playing
+        uses: denvercoder1/spotify-now-playing@v1.0.2
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Update Spotify Now Playing" || echo "No changes to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
