@@ -15,7 +15,9 @@
 
 ###
 
-<h1 align="center">hey i'm luna 💜🏳️‍⚧️</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=F2A9FF&center=true&random=true&width=435&lines=hey+i'm+luna+%F0%9F%92%9C%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F" alt="Typing SVG" /></a>
+  </a></h1>
 
 ###
 
@@ -29,6 +31,8 @@
   - I'm delving into both front-end and back-end technologies to build a well-rounded skill set
   <br>
   - I develop silly Python projects that keep my creativity and problem-solving skills sharp
+  <br>
+  - Currently open to opportunities & learning new tools daily
 </p>
 
 ###
@@ -37,19 +41,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,graphql,go" />
+</p>
+
 
 ###
 
@@ -63,3 +58,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Luna-Salamanca.Luna-Salamanca&right_color=rebeccapurple"  />
 
 ###
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9B59B6&width=280&lines=Learning+TypeScript;React+✨;Building+cool+stuff" alt="Typing Badge" />
+
