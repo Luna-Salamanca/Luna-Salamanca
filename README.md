@@ -45,8 +45,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,graphql,go" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9B59B6&width=280&lines=Learning+TypeScript;React+;Building+stupid+stuff" alt="Typing Badge" />
-
 
 ###
 
