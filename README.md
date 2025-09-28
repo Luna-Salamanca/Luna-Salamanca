@@ -28,7 +28,7 @@
 <p align="left">
   - Currently unemployed, but I'm actively investing my time in learning full-stack development
   <br>
-  - I'm delving into both front-end and back-end technologies to build a well-rounded skill set
+  - I'm delving into both front-end and back-end technologies
   <br>
   - I develop silly Python projects that keep my creativity and problem-solving skills sharp
   <br>
