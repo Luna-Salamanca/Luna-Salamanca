@@ -26,13 +26,15 @@
 ###
 
 <p align="left">
-  - Currently unemployed, but I'm actively investing my time in learning full-stack development
+  - Former data center technician with hands-on experience in hardware management and system reliability  
   <br>
-  - I'm delving into both front-end and back-end technologies
+  - Currently expanding into full-stack development to bridge my infrastructure background with software creation  
   <br>
-  - I develop silly Python projects that keep my creativity and problem-solving skills sharp
+  - Learning both front-end and back-end technologies, focusing on building clean and efficient web applications  
   <br>
-  - Currently open to opportunities & learning new tools daily
+  - I build small Python projects to experiment with ideas and strengthen my problem-solving mindset  
+  <br>
+  - Always learning new tools and open to opportunities that connect my technical roots with creative development  
 </p>
 
 ###
