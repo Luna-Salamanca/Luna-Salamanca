@@ -50,12 +50,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luna-Salamanca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Luna-Salamanca.Luna-Salamanca&right_color=rebeccapurple"  />
 
 ###
