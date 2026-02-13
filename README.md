@@ -53,6 +53,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 
+---
+<div align="center">
+  <a href="https://discord.com/users/119562210686140419">
+    <img src="https://lanyard.cnrad.dev/api/119562210686140419?theme=dark&bg=0d1117&animated=true" alt="Discord Presence" />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Luna-Salamanca.Luna-Salamanca&right_color=rebeccapurple" alt="Visitor Badge" />
 </div>
+<br/>
