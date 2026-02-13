@@ -20,8 +20,8 @@
 
 - **Former Data Center Technician** with hands-on experience in hardware management and system reliability
 - **Full-stack developer** bridging an infrastructure background with high-performance software creation
-- **Current Technical Focus:** Deep-diving into the **BED Stack (Bun, Elysia, Drizzle)** and **Vite** to build lightning-fast, type-safe web applications
-- **Backend proficient** in **Python (FastAPI/Django)** and **Go**, with a solid foundation in **Node/Express** for enterprise-grade systems
+- **Current Technical Focus:** Deep-diving into **TypeScript**, the **BED Stack (Bun, Elysia, Drizzle)** and **Vite** to build lightning-fast, type-safe web applications
+- **Primary Language:** **TypeScript**, with strong proficiency in **Python (FastAPI/Django)** and **Go** for scalable backend systems
 - **Currently pursuing professional certifications** in **Cisco CCNA**, **AWS Solutions Architect**, and **CompTIA Security+**
 - **Problem-solving mindset** honed through technical troubleshooting and high-end **FFXIV raiding**
 - **Always evolving**, currently integrating local AI and cloud-native tools into my development workflow
