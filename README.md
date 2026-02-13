@@ -56,8 +56,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Luna-Salamanca.Luna-Salamanca&right_color=rebeccapurple" alt="Visitor Badge" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luna-Salamanca&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Luna's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Salamanca&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Luna's Top Langs" />
-</div>
